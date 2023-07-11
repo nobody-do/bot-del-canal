@@ -1,0 +1,191 @@
+[15:03:18 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:03:18 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 10:03:18
+[15:05:48 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:05:48 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 10:05:48
+[15:05:53 [31merror[39m]: (intermediate value).setStyle is not a function
+[15:07:12 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:07:12 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 10:07:12
+[15:19:44 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[15:19:44 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[15:21:51 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:21:51 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 10:21:51
+[15:24:04 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[15:24:04 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[15:28:52 [32minfo[39m]: Iniciando y Conectando a la DB
+[15:28:52 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 10:28:52
+[15:29:39 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[15:29:39 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[16:42:47 [32minfo[39m]: Iniciando y Conectando a la DB
+[16:42:47 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 11:42:47
+[17:02:36 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:02:36 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:03:08 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:03:08 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:03:08
+[17:18:45 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[17:18:45 [31merror[39m]: unhandledRejection: Cannot read properties of null (reading 'closed')
+TypeError: Cannot read properties of null (reading 'closed')
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Modales\🏫 Servidores\Ticket.js:46:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[17:19:38 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:19:38 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:19:38
+[17:23:06 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:23:06 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:24:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:24:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:24:03
+[17:27:59 [31merror[39m]: unhandledRejection: Unable to convert color to a number.
+TypeError [ColorConvert]: Unable to convert color to a number.
+    at resolveColor (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\discord.js\src\util\Util.js:260:63)
+    at EmbedBuilder.setColor (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\discord.js\src\structures\EmbedBuilder.js:23:36)
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Botones\🥳 Tickets\reopenTicket.js:49:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[17:27:59 [31merror[39m]: unhandledRejection: Unable to convert color to a number.
+TypeError [ColorConvert]: Unable to convert color to a number.
+    at resolveColor (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\discord.js\src\util\Util.js:260:63)
+    at EmbedBuilder.setColor (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\discord.js\src\structures\EmbedBuilder.js:23:36)
+    at Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Botones\🥳 Tickets\reopenTicket.js:49:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[17:28:20 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:28:20 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:28:20
+[17:29:31 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:29:31 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:35:03 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:35:03 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:35:03
+[17:35:39 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:35:39 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:98:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[17:36:02 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:36:02 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:36:02
+[17:38:59 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'protocol')
+TypeError: Cannot read properties of undefined (reading 'protocol')
+    at C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Commands\🎮 Gamings\minecraft.js:173:53
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Commands\🎮 Gamings\minecraft.js:135:13)
+[17:38:59 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'protocol')
+TypeError: Cannot read properties of undefined (reading 'protocol')
+    at C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Commands\🎮 Gamings\minecraft.js:173:53
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Commands\🎮 Gamings\minecraft.js:135:13)
+[17:39:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[17:39:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 12:39:23
+[21:49:23 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:49:23 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 16:49:23
+[21:50:21 [32minfo[39m]: Iniciando y Conectando a la DB
+[21:50:21 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 16:50:21
+[22:55:41 [32minfo[39m]: Iniciando y Conectando a la DB
+[22:55:41 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 17:55:41
+[02:05:50 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:05:50 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 21:05:50
+[02:05:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:108:61
+    at FSReqCallback.oncomplete (node:fs:198:23)
+[02:05:52 [31merror[39m]: uncaughtException: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Events\⚡ Cliente\presencia.js:108:61
+    at FSReqCallback.oncomplete (node:fs:198:23)
+[02:09:39 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:09:39 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 21:09:39
+[02:10:40 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:78:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[02:10:40 [31merror[39m]: uncaughtException: Received one or more errors
+Error: Received one or more errors
+    at ArrayValidator.handle (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:473:70)
+    at ArrayValidator.parse (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@sapphire\shapeshift\dist\index.js:212:88)
+    at EmbedBuilder.addFields (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\node_modules\@discordjs\builders\dist\index.js:222:31)
+    at process.<anonymous> (C:\Users\noehu\OneDrive\Escritorio\Pantro Bot\discordBots\Bots Publicos CD\Plugins\anticrash.js:78:14)
+    at process.emit (node:events:525:35)
+    at doEmitWarning (node:internal/process/warning:89:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[02:10:56 [32minfo[39m]: Iniciando y Conectando a la DB
+[02:10:56 [32minfo[39m]: Bot Iniciado con Exito Dia de Registro Sun Jul 09 2023 21:10:56

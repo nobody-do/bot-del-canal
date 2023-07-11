@@ -1,0 +1,23 @@
+{
+      "token": "MTEyODM2Mjg3MTA5MzQ4MTY2Ng.GsQ6K5.etk2HeGPSWui07krL4xm6nBR3JUQt4jqMlc8hM",
+      "database": "mongodb+srv://NoeYT:maznabx21@cluster0.fkbw11y.mongodb.net/?retryWrites=true&w=majority",
+      "developerGuild": "1127054833065660458",
+      "lenguaje": "ES",
+      "prefix": "p!",
+      "ownerIDS": [
+       "1114681584256286730"
+      ],
+      "color": "Random",
+      "invitacion": "https://dsc.gg/fenixweb ",
+      "discord": "https://discord.gg/J9R5VNTr2x",
+      "youtube": "https://studiodeveloper.online/",
+      "clientsettings": {
+          "nodes": [
+                {
+                    "host": "https://lavalink-replit.bellasico.repl.co",
+                    "port": 433,
+                    "password": "maznabx21"
+                }
+          ]
+      }
+}
